@@ -1,3 +1,4 @@
+# Author: Jason Bentley (2015)
 library(shiny)
 
 # Define UI for application that draws a histogram
